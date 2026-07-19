@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&pause=900&color=00FF41&background=00000000&center=true&vCenter=true&width=680&lines=hey+i%27m+vishnu.;CS+%7C+AI+%26+ML+%40+Presidency+Uni;i+ship+real+products+for+real+clients.;Vivek+Dental.+Christalin.+INNOCOOKS.;SHAR.+Aether.+Hacksters.;currently%3A+deep+in+the+grind.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&pause=900&color=00FF41&background=00000000&center=true&vCenter=true&width=680&lines=hey+i%27m+vishnu.;CS+%7C+AI+%26+ML+%40+Presidency+Uni;final+year.+building+real+things.;Vivek+Dental.+Christalin.+INNOCOOKS.;SHAR.+Aether.+Hacksters.;currently%3A+deep+in+the+grind.)](https://git.io/typing-svg)
 
 <img src="https://komarev.com/ghpvc/?username=Vishnuuuu24&style=for-the-badge&color=00FF41&label=PROFILE+VIEWS&base=100" />
 
