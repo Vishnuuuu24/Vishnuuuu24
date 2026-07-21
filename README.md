@@ -84,8 +84,8 @@
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=Vishnuuuu24&show_icons=true&theme=chartreuse-dark&bg_color=000000&border_color=00FF41&icon_color=00FF41&title_color=00FF41&text_color=ffffff&count_private=true&include_all_commits=true" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vishnuuuu24&layout=compact&theme=chartreuse-dark&bg_color=000000&border_color=00FF41&title_color=00FF41&text_color=ffffff&langs_count=8" />
+<img height="160" src="https://github-readme-stats-sigma-lac.vercel.app/api?username=Vishnuuuu24&show_icons=true&theme=chartreuse-dark&bg_color=000000&border_color=00FF41&icon_color=00FF41&title_color=00FF41&text_color=ffffff&count_private=true&include_all_commits=true" />
+<img height="160" src="https://github-readme-stats-sigma-lac.vercel.app/api/top-langs/?username=Vishnuuuu24&layout=compact&theme=chartreuse-dark&bg_color=000000&border_color=00FF41&title_color=00FF41&text_color=ffffff&langs_count=8" />
 
 </div>
 
