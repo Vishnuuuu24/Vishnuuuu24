@@ -12,7 +12,7 @@
  whoami
  > Vishnu Vardhan P
  > CS (AI & ML), final year @ Presidency University, Bengaluru
- > co-founder @ HackstersJr | we build for clients, not just for fun
+ > co-founder @ Innocooks | we build for clients, not just for fun
  > building: Patient Twin AI + action localization research
  > setup: M5 Pro. terminal always open.
 ```
