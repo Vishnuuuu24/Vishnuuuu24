@@ -21,7 +21,7 @@
 
 ## shipped
 
-**[Vivek Dental](https://github.com/innocooks-org/Vivek-Dental)**
+**[Dental ERP](https://github.com/innocooks-org/Vivek-Dental)**
 > staff-only appointment scheduling + automated WhatsApp patient comms for a real dental clinic.
 > replaces the paper book entirely. daily digest for the owner. mobile-first. fully deployed.
 > `Next.js` `TypeScript` `Supabase` `WhatsApp API` `Cron Jobs`
